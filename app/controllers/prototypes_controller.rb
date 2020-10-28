@@ -4,4 +4,10 @@ class PrototypesController < ApplicationController
     @user = current_user.name
   end
 
+  def new
+  end
+
+  def create
+  end
+
 end
